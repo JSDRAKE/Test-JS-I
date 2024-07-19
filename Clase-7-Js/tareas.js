@@ -11,3 +11,5 @@ function imprimir() {
 }
 
 imprimir();
+
+// El resultado es : 1 4 3 2
